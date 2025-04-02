@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Dexter
+<!--# 👋 Hey there! I'm Dexter
 
 ![Profile Avatar](images/54188589-1.jpg)
 
@@ -33,7 +33,9 @@ I'm a **Server Administrator** and a **junior DevOps** engineer based in **Chisi
 - DevSecOps
 
 ## 📬 Get in Touch
-- Email: slendchat@gamil.com
+- Email: slendchat@gmail.com
 
 ---
 ⭐ Feel free to explore my repositories and connect with me!
+-->
+### hehe
