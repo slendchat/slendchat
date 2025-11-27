@@ -1,19 +1,3 @@
-# 👾 Artur Voitkovskii
-
-**`SysAdmin on the way to DevOPs`**
-
-Hi, I'm a Server Administrator from Chisinau, Moldova.  
-Currently, I’m studying at university and working towards becoming a **DevOps Engineer**.  
-I use my GitHub account as part of my learning journey and a record of achieving this goal.  
-
-Here you can find:  
- - 🎲 Projects created just for fun or out of curiosity  
- - 🛠 Practical tools I made for work or everyday use  
- - 📚 University projects that I share with others  
-
-My profile is not a polished portfolio of perfectly structured projects,  
-but rather a living representation of my growth and education in the field.
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
