@@ -23,6 +23,4 @@
 
 <br />
 
-#
-
 ![Slendchat's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=slendchat&show_icons=true&theme=gruvbox)
